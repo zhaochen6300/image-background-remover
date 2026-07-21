@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && opennextjs-cloudflare build",
+    "build": "next build",
     "start": "next start",
     "lint": "eslint .",
     "preview": "opennextjs-cloudflare build && wrangler dev",
